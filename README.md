@@ -1,4 +1,5 @@
-Welcome to my GitHub repository dedicated to the exploration of product sales data spanning the years 2015, 2016, and 2017. This Power BI project aims to provide a comprehensive analysis of sales performance, highlighting key insights and trends across different products
+Welcome to my GitHub repository dedicated to the exploration of product sales data spanning the years 2015, 2016, and 2017. This Power BI project aims to provide a comprehensive analysis of sales performance, highlighting key insights and trends across different products.
+
 Key Features:
 
 📁 Data Source: The repository houses five crucial Excel files, encompassing sales data for the years 2015, 2016, and 2017, as well as product and territory details. These datasets serve as the foundation for a detailed and insightful analysis.
